@@ -9,7 +9,10 @@ layout: default
 
 <div align="center">
 
-![ReDARP demonstration](assets/creenshot from 2025-11-26 01-49-03.png){: width="80%"}
+![ReDARP demonstration]
+<center>
+  <img src="assets/screenshot from 2025-11-26 01-49-03.png" width="80%">
+</center>
 
 </div>
 
